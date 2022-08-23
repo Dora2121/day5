@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\day5assign\Array-sum\obj\Debug\Array-sum.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\Array-sum\obj\Debug\Array-sum.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\Array-sum\obj\Debug\Array-sum.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\Array-sum\bin\Debug\Array-sum.exe.config
+C:\Users\DORA BABU\Desktop\work space\day5assign\Array-sum\bin\Debug\Array-sum.exe
+C:\Users\DORA BABU\Desktop\work space\day5assign\Array-sum\bin\Debug\Array-sum.pdb
+C:\Users\DORA BABU\Desktop\work space\day5assign\Array-sum\obj\Debug\Array-sum.exe
+C:\Users\DORA BABU\Desktop\work space\day5assign\Array-sum\obj\Debug\Array-sum.pdb

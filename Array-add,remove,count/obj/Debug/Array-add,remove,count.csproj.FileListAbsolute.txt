@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\day5assign\Array-add,remove,count\bin\Debug\Array-add,remove,count.exe.config
+C:\Users\DORA BABU\Desktop\work space\day5assign\Array-add,remove,count\bin\Debug\Array-add,remove,count.exe
+C:\Users\DORA BABU\Desktop\work space\day5assign\Array-add,remove,count\bin\Debug\Array-add,remove,count.pdb
+C:\Users\DORA BABU\Desktop\work space\day5assign\Array-add,remove,count\obj\Debug\Array-add,remove,count.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\Array-add,remove,count\obj\Debug\Array-add,remove,count.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\Array-add,remove,count\obj\Debug\Array-add,remove,count.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\Array-add,remove,count\obj\Debug\Array-add,remove,count.exe
+C:\Users\DORA BABU\Desktop\work space\day5assign\Array-add,remove,count\obj\Debug\Array-add,remove,count.pdb

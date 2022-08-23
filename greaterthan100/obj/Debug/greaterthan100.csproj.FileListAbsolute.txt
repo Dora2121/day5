@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\day5assign\greaterthan100\obj\Debug\greaterthan100.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\greaterthan100\obj\Debug\greaterthan100.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\greaterthan100\obj\Debug\greaterthan100.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\greaterthan100\bin\Debug\greaterthan100.exe.config
+C:\Users\DORA BABU\Desktop\work space\day5assign\greaterthan100\bin\Debug\greaterthan100.exe
+C:\Users\DORA BABU\Desktop\work space\day5assign\greaterthan100\bin\Debug\greaterthan100.pdb
+C:\Users\DORA BABU\Desktop\work space\day5assign\greaterthan100\obj\Debug\greaterthan100.exe
+C:\Users\DORA BABU\Desktop\work space\day5assign\greaterthan100\obj\Debug\greaterthan100.pdb

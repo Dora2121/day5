@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\day5assign\dictkeyone\bin\Debug\dictkeyone.exe.config
+C:\Users\DORA BABU\Desktop\work space\day5assign\dictkeyone\bin\Debug\dictkeyone.exe
+C:\Users\DORA BABU\Desktop\work space\day5assign\dictkeyone\bin\Debug\dictkeyone.pdb
+C:\Users\DORA BABU\Desktop\work space\day5assign\dictkeyone\obj\Debug\dictkeyone.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\dictkeyone\obj\Debug\dictkeyone.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\dictkeyone\obj\Debug\dictkeyone.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\dictkeyone\obj\Debug\dictkeyone.exe
+C:\Users\DORA BABU\Desktop\work space\day5assign\dictkeyone\obj\Debug\dictkeyone.pdb

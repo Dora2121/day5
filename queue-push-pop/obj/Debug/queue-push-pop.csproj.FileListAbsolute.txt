@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\day5assign\queue-push-pop\obj\Debug\queue-push-pop.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\queue-push-pop\obj\Debug\queue-push-pop.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\queue-push-pop\obj\Debug\queue-push-pop.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\queue-push-pop\bin\Debug\queue-push-pop.exe.config
+C:\Users\DORA BABU\Desktop\work space\day5assign\queue-push-pop\bin\Debug\queue-push-pop.exe
+C:\Users\DORA BABU\Desktop\work space\day5assign\queue-push-pop\bin\Debug\queue-push-pop.pdb
+C:\Users\DORA BABU\Desktop\work space\day5assign\queue-push-pop\obj\Debug\queue-push-pop.exe
+C:\Users\DORA BABU\Desktop\work space\day5assign\queue-push-pop\obj\Debug\queue-push-pop.pdb

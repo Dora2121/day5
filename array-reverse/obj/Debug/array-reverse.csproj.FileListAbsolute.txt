@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\day5assign\array-reverse\bin\Debug\array-reverse.exe.config
+C:\Users\DORA BABU\Desktop\work space\day5assign\array-reverse\bin\Debug\array-reverse.exe
+C:\Users\DORA BABU\Desktop\work space\day5assign\array-reverse\bin\Debug\array-reverse.pdb
+C:\Users\DORA BABU\Desktop\work space\day5assign\array-reverse\obj\Debug\array-reverse.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\array-reverse\obj\Debug\array-reverse.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\array-reverse\obj\Debug\array-reverse.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\array-reverse\obj\Debug\array-reverse.exe
+C:\Users\DORA BABU\Desktop\work space\day5assign\array-reverse\obj\Debug\array-reverse.pdb

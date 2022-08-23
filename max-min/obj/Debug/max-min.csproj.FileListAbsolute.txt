@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\day5assign\max-min\bin\Debug\max-min.exe.config
+C:\Users\DORA BABU\Desktop\work space\day5assign\max-min\bin\Debug\max-min.exe
+C:\Users\DORA BABU\Desktop\work space\day5assign\max-min\bin\Debug\max-min.pdb
+C:\Users\DORA BABU\Desktop\work space\day5assign\max-min\obj\Debug\max-min.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\max-min\obj\Debug\max-min.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\max-min\obj\Debug\max-min.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\max-min\obj\Debug\max-min.exe
+C:\Users\DORA BABU\Desktop\work space\day5assign\max-min\obj\Debug\max-min.pdb

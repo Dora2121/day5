@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\day5assign\firstreapted\bin\Debug\firstreapted.exe.config
+C:\Users\DORA BABU\Desktop\work space\day5assign\firstreapted\bin\Debug\firstreapted.exe
+C:\Users\DORA BABU\Desktop\work space\day5assign\firstreapted\bin\Debug\firstreapted.pdb
+C:\Users\DORA BABU\Desktop\work space\day5assign\firstreapted\obj\Debug\firstreapted.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\firstreapted\obj\Debug\firstreapted.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\firstreapted\obj\Debug\firstreapted.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\firstreapted\obj\Debug\firstreapted.exe
+C:\Users\DORA BABU\Desktop\work space\day5assign\firstreapted\obj\Debug\firstreapted.pdb

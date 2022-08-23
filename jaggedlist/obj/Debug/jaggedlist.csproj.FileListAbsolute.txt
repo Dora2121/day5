@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\day5assign\jaggedlist\bin\Debug\jaggedlist.exe.config
+C:\Users\DORA BABU\Desktop\work space\day5assign\jaggedlist\bin\Debug\jaggedlist.exe
+C:\Users\DORA BABU\Desktop\work space\day5assign\jaggedlist\bin\Debug\jaggedlist.pdb
+C:\Users\DORA BABU\Desktop\work space\day5assign\jaggedlist\obj\Debug\jaggedlist.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\jaggedlist\obj\Debug\jaggedlist.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\jaggedlist\obj\Debug\jaggedlist.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\jaggedlist\obj\Debug\jaggedlist.exe
+C:\Users\DORA BABU\Desktop\work space\day5assign\jaggedlist\obj\Debug\jaggedlist.pdb

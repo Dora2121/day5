@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\day5assign\sortedlist\bin\Debug\sortedlist.exe.config
+C:\Users\DORA BABU\Desktop\work space\day5assign\sortedlist\bin\Debug\sortedlist.exe
+C:\Users\DORA BABU\Desktop\work space\day5assign\sortedlist\bin\Debug\sortedlist.pdb
+C:\Users\DORA BABU\Desktop\work space\day5assign\sortedlist\obj\Debug\sortedlist.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\sortedlist\obj\Debug\sortedlist.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\sortedlist\obj\Debug\sortedlist.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\sortedlist\obj\Debug\sortedlist.exe
+C:\Users\DORA BABU\Desktop\work space\day5assign\sortedlist\obj\Debug\sortedlist.pdb

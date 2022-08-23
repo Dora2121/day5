@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\day5assign\stack-push-pop\bin\Debug\stack-push-pop.exe.config
+C:\Users\DORA BABU\Desktop\work space\day5assign\stack-push-pop\bin\Debug\stack-push-pop.exe
+C:\Users\DORA BABU\Desktop\work space\day5assign\stack-push-pop\bin\Debug\stack-push-pop.pdb
+C:\Users\DORA BABU\Desktop\work space\day5assign\stack-push-pop\obj\Debug\stack-push-pop.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\stack-push-pop\obj\Debug\stack-push-pop.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\stack-push-pop\obj\Debug\stack-push-pop.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\stack-push-pop\obj\Debug\stack-push-pop.exe
+C:\Users\DORA BABU\Desktop\work space\day5assign\stack-push-pop\obj\Debug\stack-push-pop.pdb

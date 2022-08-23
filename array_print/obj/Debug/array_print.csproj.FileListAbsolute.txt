@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\day5assign\array_print\bin\Debug\array_print.exe.config
+C:\Users\DORA BABU\Desktop\work space\day5assign\array_print\bin\Debug\array_print.exe
+C:\Users\DORA BABU\Desktop\work space\day5assign\array_print\bin\Debug\array_print.pdb
+C:\Users\DORA BABU\Desktop\work space\day5assign\array_print\obj\Debug\array_print.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\array_print\obj\Debug\array_print.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\array_print\obj\Debug\array_print.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\array_print\obj\Debug\array_print.exe
+C:\Users\DORA BABU\Desktop\work space\day5assign\array_print\obj\Debug\array_print.pdb

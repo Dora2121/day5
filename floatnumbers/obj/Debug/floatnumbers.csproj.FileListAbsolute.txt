@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\day5assign\floatnumbers\bin\Debug\floatnumbers.exe.config
+C:\Users\DORA BABU\Desktop\work space\day5assign\floatnumbers\bin\Debug\floatnumbers.exe
+C:\Users\DORA BABU\Desktop\work space\day5assign\floatnumbers\bin\Debug\floatnumbers.pdb
+C:\Users\DORA BABU\Desktop\work space\day5assign\floatnumbers\obj\Debug\floatnumbers.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\floatnumbers\obj\Debug\floatnumbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\floatnumbers\obj\Debug\floatnumbers.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\floatnumbers\obj\Debug\floatnumbers.exe
+C:\Users\DORA BABU\Desktop\work space\day5assign\floatnumbers\obj\Debug\floatnumbers.pdb

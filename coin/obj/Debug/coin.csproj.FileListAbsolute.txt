@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\day5assign\coin\bin\Debug\coin.exe.config
+C:\Users\DORA BABU\Desktop\work space\day5assign\coin\bin\Debug\coin.exe
+C:\Users\DORA BABU\Desktop\work space\day5assign\coin\bin\Debug\coin.pdb
+C:\Users\DORA BABU\Desktop\work space\day5assign\coin\obj\Debug\coin.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\coin\obj\Debug\coin.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\coin\obj\Debug\coin.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\day5assign\coin\obj\Debug\coin.exe
+C:\Users\DORA BABU\Desktop\work space\day5assign\coin\obj\Debug\coin.pdb
